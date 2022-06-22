@@ -1,5 +1,6 @@
 # REQUISTOS PARA EXECUÇÃO DO PROJETO 
 JAVA 11
+
 GRADLE  7.4.2 OU SUPERIOR
 
 Instrução para Instalação do Gradle
