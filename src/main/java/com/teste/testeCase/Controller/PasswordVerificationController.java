@@ -14,6 +14,6 @@ public class PasswordVerificationController {
 
     @GetMapping("/verification/{password}")
     public Boolean VerificationPassword(@PathVariable String password) {
-        return verificationService.passwordVerification(password);
+        return verificationService.isValidPassword(password);
     }
 }
